@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "A place for my blog posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpintor/blog.git"
+  },
+  "author": "Cristian Pintor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpintor/blog/issues"
+  },
+  "homepage": "https://github.com/cpintor/blog#readme"
+}
