@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 31 Dec 2020 07:35:27 GMT</lastBuildDate><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 02 Jan 2021 23:43:23 GMT</lastBuildDate><item><title><![CDATA[Welcome to my blog!]]></title><description><![CDATA[I would like to begin 2021 by starting out a new bloging project where I will hopefully commit to blogging throughout the year and beyond. I…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/welcome-to-my-blog/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/welcome-to-my-blog/</guid><pubDate>Thu, 02 Jan 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/78ef3a32fb4f586123ef05900a794f98/a2510/dream.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABx2ju6jnAf//EABkQAAIDAQAAAAAAAAAAAAAAAAARAQIDEP/aAAgBAQABBQJCFy+6mdrP/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BV//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/Aar/xAAYEAACAwAAAAAAAAAAAAAAAAABAhARIP/aAAgBAQAGPwLFKI//xAAZEAADAQEBAAAAAAAAAAAAAAAAARExEGH/2gAIAQEAAT8hXQkaYm0bpOeH/9oADAMBAAIAAwAAABC0P//EABcRAQADAAAAAAAAAAAAAAAAAAABESH/2gAIAQMBAT8QnFH/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxBj/8QAGhABAQEAAwEAAAAAAAAAAAAAAREAEDFBgf/aAAgBAQABPxDEvROIBjgAo7PhlgC+Czf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Moon with purple overlay&quot;
+        title=&quot;Moon with purple overlay&quot;
+        src=&quot;/blog/static/78ef3a32fb4f586123ef05900a794f98/828fb/dream.jpg&quot;
+        srcset=&quot;/blog/static/78ef3a32fb4f586123ef05900a794f98/ff44c/dream.jpg 158w,
+/blog/static/78ef3a32fb4f586123ef05900a794f98/a6688/dream.jpg 315w,
+/blog/static/78ef3a32fb4f586123ef05900a794f98/828fb/dream.jpg 630w,
+/blog/static/78ef3a32fb4f586123ef05900a794f98/0ede0/dream.jpg 945w,
+/blog/static/78ef3a32fb4f586123ef05900a794f98/a2510/dream.jpg 1000w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I would like to begin 2021 by starting out a new bloging project where I will hopefully commit to blogging throughout the year and beyond. I aim to post here my journey through web development, as I am set to graduate this year in May (I am beyond terrified). I will also post some of my photos, which I will work on creating my own potfolio page on my &lt;a href=&quot;https://cpintor.github.io&quot;&gt;main site&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;I hope you can stay for a while and explore my blog and website.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/new-beginnings/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
@@ -123,7 +155,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dWC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACERJC/9oACAEBAAEFAkqW7B5Zovtvk//EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESL/2gAIAQIBAT8BjT//xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhQYGx/9oACAEBAAE/IXGrA43oOyg9wgU86OZMfwZKypT/2gAMAwEAAgADAAAAEMjv/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxARwyusv//EABcRAQEBAQAAAAAAAAAAAAAAAAEAIVH/2gAIAQIBAT8QOoVoX//EAB0QAQEAAgIDAQAAAAAAAAAAAAERADFhgSFBUeH/2gAIAQEAAT8QTpwaGjrBSrtHyF9iOPEaVJxkQfFWnOWRBidM3AhEu/yZ/9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
