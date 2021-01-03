@@ -1,7 +1,12 @@
 ---
 title: My Second Post!
 date: "2015-05-06T23:46:37.121Z"
+coverImage:
+    src: "./test.jpeg"
+    alt: "A salty egg" 
 ---
+
+![Chinese Salty Egg](./test.jpeg)
 
 Wow! I love blogging so much already.
 

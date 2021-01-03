@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Img from "gatsby-image"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -30,6 +31,7 @@ const BlogIndex = ({ data, location }) => {
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
+          const coverImage = post.frontmatter.coverImage
 
           return (
             <li key={post.fields.slug}>
@@ -47,6 +49,14 @@ const BlogIndex = ({ data, location }) => {
                   <small>{post.frontmatter.date}</small>
                 </header>
                 <section>
+                  {
+                    coverImage && (
+                      <Img
+                        fluid={coverImage.src.childImageSharp.fluid}
+                        alt={coverImage.alt}
+                      />
+                    )
+                  }
                   <p
                     dangerouslySetInnerHTML={{
                       __html: post.frontmatter.description || post.excerpt,
@@ -82,6 +92,16 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           title
           description
+          coverImage {
+            src {
+              childImageSharp {
+                fluid(maxWidth: 1024) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            alt
+          }
         }
       }
     }

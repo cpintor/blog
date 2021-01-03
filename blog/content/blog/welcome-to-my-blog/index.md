@@ -2,6 +2,9 @@
 title: Welcome to my blog!
 date: "2020-01-02T23:46:37.121Z"
 description: What more perfect way to start 2021 than to begin a new blog?
+coverImage:
+    src: "./dream.jpg"
+    alt: "A salty egg" 
 ---
 
 ![Moon with purple overlay](./dream.jpg)
