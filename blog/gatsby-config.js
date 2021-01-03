@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: "/blog",
   siteMetadata: {
-    title: `Blog`,
+    title: `blog`,
     author: {
       name: `Cristian Pintor`,
       summary: `who is currently and undergrand at Illinois Tech majoring in IT with a specilization in web development living in the greater Chicago area.`,
@@ -51,6 +51,7 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    'gatsby-image',
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
