@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 02 Jan 2021 23:43:23 GMT</lastBuildDate><item><title><![CDATA[Welcome to my blog!]]></title><description><![CDATA[I would like to begin 2021 by starting out a new bloging project where I will hopefully commit to blogging throughout the year and beyond. I…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/welcome-to-my-blog/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/welcome-to-my-blog/</guid><pubDate>Thu, 02 Jan 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[C. Pintor]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 04 Jan 2021 00:56:30 GMT</lastBuildDate><item><title><![CDATA[Welcome to my blog!]]></title><description><![CDATA[I would like to begin 2021 by starting out a new bloging project where I will hopefully commit to blogging throughout the year and beyond. I…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/welcome-to-my-blog/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/welcome-to-my-blog/</guid><pubDate>Thu, 02 Jan 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -124,7 +124,39 @@ to its own, safe country. But nothing the copy said could convince her and so it
 didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
 with Longe and Parole and dragged her into their agency, where they abused her
 for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/my-second-post/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
+chicken eggs, though the…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/my-second-post/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/b14abe0727c25cd826ccc2b5c66efa72/ac99c/test.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAXAQEBAQEAAAAAAAAAAAAAAAACBAED/9oADAMBAAIQAxAAAAHlvlS4FjRKiLzuYQcv/8QAHhAAAgEDBQAAAAAAAAAAAAAAAQIAAxIhERMiMTL/2gAIAQEAAQUCi6sanFiuQLZts5XrNpMpRvZn/8QAGREAAwADAAAAAAAAAAAAAAAAARASAhET/9oACAEDAQE/AYM0stcgV//EABcRAQADAAAAAAAAAAAAAAAAABABMUH/2gAIAQIBAT8B0iz/xAAZEAACAwEAAAAAAAAAAAAAAAAAARARMSH/2gAIAQEABj8C0pFCo4y6h902HH//xAAdEAEAAwEAAgMAAAAAAAAAAAABABEhMVFxgZHR/9oACAEBAAE/IV8WvuTKOy3V8wE3vk5EKpiMVLmbvBCP6R76+4bNjfVBs//aAAwDAQACAAMAAAAQTxAD/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARQf/aAAgBAwEBPxAR8kBkdI5kOF//xAAYEQEBAQEBAAAAAAAAAAAAAAABEQAQIf/aAAgBAgEBPxChDm3wybOf/8QAHRABAAICAwEBAAAAAAAAAAAAAQARIUExUZFh8f/aAAgBAQABPxAwewBQIW2RZDeOIXMwCilnxhd9nB+o4sqBt59qZsF5XMB24oOlQVpjyHPKhBMCy2KBcAA6gORqf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Chinese Salty Egg&quot;
+        title=&quot;Chinese Salty Egg&quot;
+        src=&quot;/blog/static/b14abe0727c25cd826ccc2b5c66efa72/828fb/test.jpg&quot;
+        srcset=&quot;/blog/static/b14abe0727c25cd826ccc2b5c66efa72/ff44c/test.jpg 158w,
+/blog/static/b14abe0727c25cd826ccc2b5c66efa72/a6688/test.jpg 315w,
+/blog/static/b14abe0727c25cd826ccc2b5c66efa72/828fb/test.jpg 630w,
+/blog/static/b14abe0727c25cd826ccc2b5c66efa72/0ede0/test.jpg 945w,
+/blog/static/b14abe0727c25cd826ccc2b5c66efa72/3ac88/test.jpg 1260w,
+/blog/static/b14abe0727c25cd826ccc2b5c66efa72/ac99c/test.jpg 1536w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
 &lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
 chicken eggs, though the taste and texture will be somewhat different, and the
 egg yolk will be less rich.”?
